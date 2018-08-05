@@ -6,6 +6,9 @@ are YOU tired of typing every git command directly into the terminal, but you're
 ![Gif](https://image.ibb.co/mmeXho/optimisedgif.gif)
 
 ## Installation
+Ensure you have Go installed. If not, follow this process:
+https://github.com/golang/go/wiki/Ubuntu
+
 In a terminal call this command:
 `go get github.com/jesseduffield/lazygit`
 
